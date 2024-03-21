@@ -2,7 +2,7 @@
 
 Sou do Rio de Janeiro
 
-Tenho 22 anos 
+Tenho 23 anos 
 
 Estou cursando o curso de front-end do vai na web e o curso de front-end da Alura
 
